@@ -1,0 +1,137 @@
+.red {
+    height: 100px; 
+    background-color: red;  
+    color: white;   
+    padding: 1%;    
+    margin: 0%;   
+    font-family: sans-serif;    
+    font-size: 30px;    
+    text-align: center;
+    float: center; 
+    
+    }
+      
+    
+.green {
+    height: 50px;  
+    background-color: white;  
+    font-family: sans-serif;  
+    font-size: 24px; 
+    margin-left: 10%;
+    margin-right: 10%;
+      
+    
+    }
+    
+    
+.main {
+        width: 80%;
+        align-self: center;
+        margin: auto;
+    
+    }
+    
+    
+    
+.box1 {
+        float: left;
+        height: 440px;
+        width: 650px;
+    
+    }
+    
+  
+.box2 {
+
+        float: left;
+        height: 200px;
+        width: 400px;
+        margin-left: 20px;
+    
+    }
+    
+    
+    
+.box3 {
+        float: left;
+        height: 200px;
+        width: 400px;
+        margin-left: 20px;
+    
+    }
+    
+       
+.box4 {
+        float: left;
+        height: 200px;
+        width: 400px;
+        margin-left: 20px;
+        margin-top: 100px;
+    
+    }
+    
+      
+.box5 {
+        float: left;
+        height: 200px;
+        width: 400px;
+        margin-left: 20px;
+        margin-top: 100px;
+    
+    }
+
+    
+.black {
+    float: right;  
+    background-color: black;  
+    width: 300px; 
+    margin-left: 10px; 
+    margin-right: 12%;
+    padding: 1px;
+    height: 200px; 
+    
+    }
+    
+.blue {
+    float: right;
+    background-color: blue;
+    width: 300px; 
+    margin: 1px;
+    margin-right: 2%; 
+    padding: 1px; 
+    height: 200px;
+    
+    
+    
+    }
+    
+.yellow {
+        background-color:white;
+        width: 613px;
+        margin-left: 10%;
+        padding: 1px;
+        height: 408px;
+    
+    }
+    
+    
+.pink {   
+    background-color: fuchsia;
+    width: 300px;
+    height: 200px;
+    float: right;
+    margin-right: 12%;
+    margin-left: 2.5%;
+    margin-bottom: 10%;
+    
+    
+    }
+    
+    
+.purple {
+    background-color: purple;
+    width: 300px;
+    height: 200px;
+    float: right;
+    
+    }

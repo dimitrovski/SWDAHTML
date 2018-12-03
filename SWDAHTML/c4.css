@@ -1,0 +1,29 @@
+/*
+selector {
+    property: value;
+    ...
+    property value;
+}
+*/
+body {
+    background-color: skyblue;
+    color: white;
+    font-size: 30px;
+    font-family: sans-serif;
+
+
+}
+
+.table {
+    height: 500px;
+    width: 500px;
+}
+.italic {
+    font-style: italic;
+}
+.grey {
+    background-color: grey;
+}
+.bold {
+    font-weight: bold;
+}
